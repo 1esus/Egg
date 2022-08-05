@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1657398044 source:c:\users\daniel\desktop\tp_lab\generala\main.cpp
+	<iostream>
+	"rlutil.h"
+	"pen.h"
+	"rules.h"
+	<stdio.h>
+	<time.h>
+	"utils.h"
+
+1655941603 c:\users\daniel\desktop\tp_lab\generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657396560 c:\users\daniel\desktop\tp_lab\generala\pen.h
+	"rlutil.h"
+	<iostream>
+
+1656875998 c:\users\daniel\desktop\tp_lab\generala\rules.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1657391565 c:\users\daniel\desktop\tp_lab\generala\utils.h
+
+1657573434 source:c:\users\daniel\desktop\tp_lab\generalav2\main.cpp
+	<iostream>
+	"rlutil.h"
+	"pen.h"
+	"rules.h"
+	<stdio.h>
+	<time.h>
+	"utils.h"
+
+1655941603 c:\users\daniel\desktop\tp_lab\generalav2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657570080 c:\users\daniel\desktop\tp_lab\generalav2\pen.h
+	"rlutil.h"
+	<iostream>
+
+1656875998 c:\users\daniel\desktop\tp_lab\generalav2\rules.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1657391565 c:\users\daniel\desktop\tp_lab\generalav2\utils.h
+
+1657883335 source:c:\users\matia\downloads\generalav2\main.cpp
+	<iostream>
+	"rlutil.h"
+	"pen.h"
+	"rules.h"
+	<stdio.h>
+	<time.h>
+	"utils.h"
+
+1655941603 c:\users\matia\downloads\generalav2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657882379 c:\users\matia\downloads\generalav2\pen.h
+	"rlutil.h"
+	<iostream>
+
+1656875998 c:\users\matia\downloads\generalav2\rules.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1657391565 c:\users\matia\downloads\generalav2\utils.h
+
+1657883335 source:c:\users\user\downloads\generalafinal\generalafinal\main.cpp
+	<iostream>
+	"rlutil.h"
+	"pen.h"
+	"rules.h"
+	<stdio.h>
+	<time.h>
+	"utils.h"
+
+1655941603 c:\users\user\downloads\generalafinal\generalafinal\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657882379 c:\users\user\downloads\generalafinal\generalafinal\pen.h
+	"rlutil.h"
+	<iostream>
+
+1656875998 c:\users\user\downloads\generalafinal\generalafinal\rules.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1657391565 c:\users\user\downloads\generalafinal\generalafinal\utils.h
+
